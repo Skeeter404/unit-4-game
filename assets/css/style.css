@@ -1,0 +1,87 @@
+body {
+    background-image: url("../images/crystalMine.jpg");
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: white;
+    font-size: 65px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+#instructions {
+    font-size: 18px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+    background-color: gray;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px inset;
+    color: rgb(125, 255, 248);
+}
+
+h3 {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+#correctNumber {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+h4 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin: 10px;
+    margin-bottom: 25px;
+    font-family: 'Sawarabi Mincho', sans-serif;
+    }
+
+#yourNumber {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin: 10px;
+    margin-bottom: 25px;
+    font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+h5 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+#wins {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+#losses {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+.crystal-image{
+    width: 20%;
+    margin: 2.5%;
+    height: auto;
+}
